@@ -1,1 +1,2 @@
-Daniel Henderson  dth87@nau.edu
+Daniel Henderson
+dth87@nau.edu
